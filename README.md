@@ -9,7 +9,7 @@ Hi, I'm **Tarun Singh**, currently pursuing B.Tech in Computer Science at **ADGI
 - 🔭 Currently working on real-world projects using HTML, CSS, JS, React
 - 🌱 Learning backend with Node.js & MongoDB
 - 🛠️ Exploring DevOps tools & AI frameworks
-- 📫 Reach me: `tarunsingh006@gmail.com`
+- 📫 Reach me: `tarunchauhan8832@gmail.com`
 
 ## 🚀 Features
 
